@@ -1,0 +1,14 @@
+CID2$Amina$12830$female$03/02/2002$asd$
+CID5$asdgg$23$male$03/02/2001$dasd$
+CID7$g$1$male$03/02/2003$2$
+CID8$asdasd$232$male$03/02/2001$f$
+CID9$asd$2$male$03/02/2001$d$
+CID10$sdf$3$male$03/02/2001$f$
+CID11$asds$3$male$03/02/2001$d$
+CID12$S$23$female$03/02/2002$sd$
+CID16$G$1$male$02/03/2010$f$
+CID17$a$21$male$02/03/2013$3$
+CID18$s$2$male$20/03/2001$f$
+CID19$g$1$male$20/09/2013$s$
+CID20$Adel$+60 (13) 322 32 23$male$02/05/2000$Bukit Jalil$
+CID21$xyz$11$male$11/11/2000$11$

@@ -1,0 +1,8 @@
+AID2$CID7$asd2$Samsung GH123$Frige$cash$900$02/01/2022$Door is not opening$
+AID3$CID7$asd2$Samsung GH123$Frige$cash$900$16/02/2022$Door is not opening$
+AID4$CID7$asd2$Samsung GH123$Frige$cash$900$10/02/2022$Door is not opening$
+AID7$CID7$asd2$Samsung GH123$Frige$cash$900$01/02/2022$Door is not opening$
+AID8$CID10$root$Blender02f1$Blender$card$900$19/02/2022$Its not spinning$
+AID9$CID11$asd2$Philips 232921$Blender$cash$140$28/02/2022$Door is not opening$
+AID10$CID12$asd2$Philips 232921$Blender$cash$140$28/02/2022$Door is not opening$
+AID11$CID21$b1$rice cooker$rice cooker$card$100$05/03/2022$hello world$

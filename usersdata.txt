@@ -1,0 +1,9 @@
+manager$a$a$asd1$1$male$1/Jan/1995$2$
+technician$asd2$4$Amina Momunova$1$female$23/03/2000$2$
+technician$supertech1$toor$Imran Momunov$+60 (13) 225 3142$male$28/02/2001$Bukit Jalil$
+technician$sabina1$4$Sabina Izbakieva$1$female$15/07/2003$2$
+technician$root$toor$Maaheen Ahmed$+60 (13) 225 3142$male$28/02/2001$Bukit Jalil$
+technician$esma_2001$toor$Esma bint Israil$+60 (13) 225 3142$female$28/02/2001$Bukit Jalil$
+manager$a1$11$a$11$male$11/11/2000$11$
+technician$b1$11$b$11$male$11/11/2000$11$
+technician$c1$11$c$11$male$11/11/2000$11$
